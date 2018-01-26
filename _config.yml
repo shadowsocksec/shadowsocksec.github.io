@@ -1,7 +1,7 @@
 # Site settings
 title: Sec-SS
-email: your-email@domain.com
-url: https://example.github.io
+email: shadowsocksec@gmail.com
+url: https://shadowsocksec.github.io
 description: "[shadowsocks] Fast/Stable/Cheap/Security"
 keywords: "fast,stable,cheap,security"
 
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Sec-SS
   location: Location
   social: Around the Web
   credits: Credits
@@ -56,7 +56,7 @@ address:
   - line: we can reach every corner in the world
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Powered by Freelancer'
 
 # Build settings
 markdown: kramdown

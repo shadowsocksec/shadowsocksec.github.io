@@ -1,12 +1,8 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
 img: google.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+description: Google搜索是由Google公司推出的一个互联网搜索引擎，它是互联网上最大、影响最广泛的搜索引擎。Google每日通过不同的服务，处理来自世界各地超过30亿次的查询。除了搜索网页外，Google亦提供搜索图像、新闻组、新闻网页、地图、视频的服务。2005年6月，Google已存储超过80亿的网页，1亿3千万张图片，以及超过1亿的新闻组消息 - 总计大概10亿4千万个项目。它也缓存了编入索引中的绝大多数网页的内容。
 ---

@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Twitter（官方中文译名推特）是一个社交网络与微博客服务，它可以让用户更新不超过140个字符的消息，这些消息也被称作“推文（Tweet）”。这个服务是由杰克·多西在2006年3月创办并在当年7月启动的。Twitter风行于全世界多个国家，是互联网上访问量最大的十个网站之一。
 
 ---

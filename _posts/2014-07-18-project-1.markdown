@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: 维基百科（英语：Wikipedia，聆听i/ˌwɪkᵻˈpiːdiə/ 或 聆听i/ˌwɪkiˈpiːdiə/）是一个网络百科全书项目，特点是自由内容、自由编辑。它目前是全球网络上最大且最受大众欢迎的参考工具书，名列全球十大最受欢迎的网站。维基百科目前由非营利组织维基媒体基金会负责营运。Wikipedia是一个混成词，分别取自于网站核心技术“Wiki”以及英文中百科全书之意的“encyclopedia”。维基百科最早是在吉米·威尔士与拉里·桑格两人的合作下于2001年1月13日在互联网上推出的网站服务，并于1月15日正式展开网络百科全书计划。
 
 ---

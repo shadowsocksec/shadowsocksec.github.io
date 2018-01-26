@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: YouTube是源自美国的视频分享网站，让用户上传、观看及分享及评论视频。公司于2005年2月15日注册，网站的口号为“Broadcast Yourself”。时至今日它已经成为影音网站的翘楚，不单在影音娱乐市场上吸引观众，又成功把庞大流量转变为社区平台，并激发网上创作产业。
 
 ---
