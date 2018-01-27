@@ -1,12 +1,8 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-07-16
+modal-id: 4
 img: facebook.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: Facebook（原本称作thefacebook）是一家位于美国加州的在线社交网络服务网站。其名称的灵感来自美国高中提供给学生包含照片和联系数据的通讯录（或称花名册）昵称“face book”。截至2012年，Facebook每年共产生180拍字节（PB）的数据，并以每24小时0.5拍字节的速度增加。统计显示，Facebook上每天上传3亿5千万张图片。
 
 ---

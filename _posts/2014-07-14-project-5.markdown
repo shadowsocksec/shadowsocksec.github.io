@@ -1,12 +1,8 @@
 ---
 layout: default
-modal-id: 5
-date: 2014-07-14
+modal-id: 2
 img: ins.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: Instagram是一款免费提供在线图片及视频分享的社交应用软件，于2010年10月发布。它可以让用户用智能手机拍下照片后再将不同的滤镜效果添加到照片上， 然后分享到Facebook、Twitter、Tumblr及Flickr等社交网络服务、或是Instagram的服务器上。Instagram的名称取自“即时”（英语：instant）与“电报”（英语：telegram）两个单词的结合。因为创始人灵感来自即时成像相机，且认为人与人之间的照片分享“就像用电线传递电报消息”，因而将两个单词结合成软件名称。
 
 ---
